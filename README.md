@@ -11,7 +11,7 @@ No VS Code, **View › Terminal**, cole a linha e aperte Enter:
 Feche a aba do Claude e abra de novo pela faísca: embaixo da caixa tem que aparecer **Bypass permissions**.
 
 ## Instalar a loja no VS Code
-1. Na caixa do Claude, digite `/plugin` e escolha **Manage plugins** (ou o ícone de plugins).
+1. Na caixa do Claude, digite `/plugin` e escolha **Manage plugins**.
 2. Em **Marketplaces**, adicione `mariosaph/oficina-ia-protec`.
 3. Instale **oficina-protec** e abra uma conversa nova (feche a aba do Claude e abra pela faísca).
 4. Confira: `/skills` mostra as skills `oficina-protec:...` e `/mcp` mostra o **playwright**.
