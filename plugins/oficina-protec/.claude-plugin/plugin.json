@@ -1,0 +1,17 @@
+{
+  "name": "oficina-protec",
+  "version": "2026.10.7",
+  "description": "Oficina de IA da PROTEC/UFAM: skills de ofício, e-mail, triagem, ata, LGPD e robôs, e o navegador automático",
+  "author": {
+    "name": "Pedro Henrique Mariosa · Oficina de IA PROTEC/UFAM"
+  },
+  "homepage": "https://trilha-ia-protec.web.app",
+  "repository": "https://github.com/mariosaph/oficina-ia-protec",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "ufam",
+    "protec",
+    "oficio",
+    "sei"
+  ]
+}

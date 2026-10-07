@@ -1,0 +1,26 @@
+{
+  "name": "oficina-ia-protec",
+  "owner": {
+    "name": "Oficina de IA · PROTEC/UFAM"
+  },
+  "metadata": {
+    "description": "Skills e conectores da Oficina de IA da PROTEC/UFAM",
+    "version": "2026.10.7"
+  },
+  "plugins": [
+    {
+      "name": "oficina-protec",
+      "source": "./plugins/oficina-protec",
+      "description": "Skills da oficina (ofício por e-mail, ofício SEI, triagem, ata, LGPD, robôs) e o navegador automático",
+      "version": "2026.10.7",
+      "category": "produtividade",
+      "keywords": [
+        "ufam",
+        "protec",
+        "oficio",
+        "sei",
+        "gmail"
+      ]
+    }
+  ]
+}
